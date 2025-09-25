@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello echo
 hello echo how are you
+=======
+hello
+>>>>>>> devopsteam
